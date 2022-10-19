@@ -5,6 +5,7 @@
  * is written by bwave
  *
  */
+
 int main(void)
 {
 _putchar('_');
